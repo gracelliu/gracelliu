@@ -13,4 +13,4 @@ Hi! I'm Grace. I'm currently studying as a Bioinformatics and Computational Biol
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gracelliu&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gracelliu&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=gracelliu&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gracelliu&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in) 
