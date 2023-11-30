@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Grace. I'm currently studying as a Bioinformatics and Computational Biology specialist and a Computer Science major at the University of Toronto.
+Hi! I'm Grace. I'm currently studying as a Bioinformatics & Computational Biology specialist and a Computer Science major at the University of Toronto.
 
 
 ## 🌐 Socials:
