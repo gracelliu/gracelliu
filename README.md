@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi! I'm Grace. I'm currently studying Computer Science and Computational Biology at the University of Toronto.
+Hi! I'm Grace. 
+
+I'm currently on co-op year, interning as a Software Engineer at various companies. I study Computer Science and Computational Biology at the University of Toronto and will graduate in April 2027. 
+
+👩🏻‍💻 Fall 2025: SDE Intern @ Amazon Web Services, working on DynamoDB Indexing (GSI)
+
+👩🏻‍💻 Summer 2025: SWE Intern @ HubSpot, working on Fintech Subscriptions and Billing
+
+
+
 
 
 ## 🌐 Socials:
