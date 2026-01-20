@@ -5,7 +5,7 @@ I'm currently on co-op year. I study Computer Science and Computational Biology 
 
 👩🏻‍💻 Summer 2026: SWE Intern @ Databricks
 
-👩🏻‍💻 Winter 2026: SWE Intern @ Vercel. 
+👩🏻‍💻 Winter 2026: SWE Intern @ Vercel (here!)
 
 👩🏻‍💻 Fall 2025: SDE Intern @ Amazon Web Services
 
