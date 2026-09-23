@@ -6,7 +6,7 @@ Most of my work is in private repos but you can see some of my projects from my 
 
 👩🏻‍💻 Summer 2026: SWE Intern @ Databricks
 
-👩🏻‍💻 Winter 2026: SWE Intern @ Vercel (here!)
+👩🏻‍💻 Winter 2026: SWE Intern @ Vercel
 
 👩🏻‍💻 Fall 2025: SDE Intern @ Amazon Web Services
 
